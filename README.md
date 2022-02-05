@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivangi94
+- 👋 Hi, I’m Shivangi Cial
 - 👀 I’m interested in playing with Data
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Projects which involve Data Visualization.
