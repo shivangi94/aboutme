@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivangi Cial
 - 👀 I’m interested in playing with Data
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Projects which involve Data Visualization.
+- 💞️ I’m looking to collaborate on Projects which involve Data Analysis and Visualization.
 - 📫 How to reach me out? It's simple send me an Email "shivangicial@gmail.com" OR Ping me on LinkedIn "www.linkedin.com/in/shivangi-cial"
 
 <!---
